@@ -1,6 +1,6 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# [Roberto Lopes](http://startbootstrap.com/) - [Code Lover]
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) É isto e não passa disto [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
 ## Getting Started
 
@@ -15,10 +15,10 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+Este site foi criado por **[Roberto Lopes]**
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://www.linkedin.com/in/robert0
+* https://www.facebook.com/potzy90
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
